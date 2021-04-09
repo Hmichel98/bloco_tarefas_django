@@ -1,0 +1,13 @@
+#cabeca {
+    background-color: cadetblue;
+    text-align: center;
+}
+
+#titulo {
+    font-family: 'Lucida Sans';
+    font-size:50px;
+}
+
+.form-control {
+    width:200px
+}
